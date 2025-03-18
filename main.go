@@ -8,7 +8,7 @@ import (
 
 func main() {
 	// edfparser.ECG_Process()
-	err := edfparser.StreamEDFToSQLite("/home/bzy/edfParser/20250110142035batkhaant.edf", "output_sql")
+	err := edfparser.StreamEDFToSQLitee("/home/bzy/edfParser/20250110142035batkhaant.edf", "output_2_sql")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
