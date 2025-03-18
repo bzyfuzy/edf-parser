@@ -12,6 +12,9 @@ https://github.com/alphanumericslab/ecg-image-kit/blob/main/codes/ecg-image-gene
 https://gist.github.com/emckiernan/3e7e86a48256777e9e6a44ede032d938
 
 
+
+![image](https://github.com/user-attachments/assets/18233ad8-d79c-4725-a3cd-98eb455ef2a3)
+
 Limb Leads (6):
 
 I, II, III (augmented vectors: aVR, aVL, aVF).
