@@ -113,3 +113,6 @@ These features are not separate signals but waveform components analyzed within 
 Lead II is the most commonly used for rhythm/interval analysis (e.g., RR, PR, QT).
 
 Precordial leads (V1–V6) are critical for localizing ischemia, QRS width, and T-wave abnormalities.
+
+![image](eeg_signals.png)
+
