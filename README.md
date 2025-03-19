@@ -116,3 +116,9 @@ Precordial leads (V1–V6) are critical for localizing ischemia, QRS width, and 
 
 ![image](eeg_signals.png)
 
+<img width="1645" alt="Screenshot 2025-03-19 at 10 27 49" src="https://github.com/user-attachments/assets/969f95ce-456e-4328-abe2-711a2144c143" />
+<img width="1645" alt="Screenshot 2025-03-19 at 10 29 41" src="https://github.com/user-attachments/assets/3d474849-2a3b-4c9f-a32d-76befdb8746a" />
+EDFViewer 5sec
+
+
+
