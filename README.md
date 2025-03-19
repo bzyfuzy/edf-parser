@@ -1,17 +1,10 @@
 
-
 https://litfl.com/p-wave-ecg-library/
-
-
 https://paulbourke.net/dataformats/edf/
 https://onlinelibrary.wiley.com/doi/10.1155/2021/9913127
-
 https://github.com/alphanumericslab/ecg-image-kit/tree/main
 https://github.com/alphanumericslab/ecg-image-kit/blob/main/codes/ecg-image-generator/documentation/ECG_IMAGE_RESOLUTION.md
-
 https://gist.github.com/emckiernan/3e7e86a48256777e9e6a44ede032d938
-
-
 
 ![image](https://github.com/user-attachments/assets/18233ad8-d79c-4725-a3cd-98eb455ef2a3)
 
